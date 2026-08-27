@@ -1,3 +1,3 @@
 ### helllo 
 ### hello world !
-### python 
+### python , SQL , Power BI  
